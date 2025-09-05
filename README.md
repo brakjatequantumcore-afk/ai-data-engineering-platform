@@ -27,4 +27,4 @@ Workflow auto-runs on push to main and pull requests. Defined in `.github/workfl
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 
 ## Author
-**BRAKJATE-PARVATURE.001**
+**BRAKJATE.QUANTUMCORE**
